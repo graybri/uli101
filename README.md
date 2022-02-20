@@ -21,7 +21,7 @@ You can use the links below to access the most frequently used documents and sam
 -TBD
 
 ### Example Bash Scripts
-
+- [scripts](scripts)
 - [ex1.bash](scripts/ex1.bash)
 - [ex2.bash](scripts/ex2.bash)
 - [ex3.bash](scripts/ex3.bash)
