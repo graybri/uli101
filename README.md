@@ -1,10 +1,45 @@
-## Welcome to GitHub Pages
+# Welcome to Brian Gray's GitHub Page for ULI101
 
-You can use the [editor on GitHub](https://github.com/graybri/uli101/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page/site hosts supporting files for Brian's classes for ULI101
+You can use the links below to access the most frequently used documents and sample scripts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Slide Presentations
 
-### Markdown
+- [Week 1](docs/Week01.pdf)
+- [Week 2](docs/Week02.pdf)
+- [Week 3](docs/Week03.pdf)
+- [Week 4](docs/Week04.pdf)
+- [Week 5](docs/Week05.pdf)
+- [Week 6](docs/Week06.pdf)
+- [Week 7](docs/Week07.pdf)
+- [Week 8](docs/Week08.pdf)
+- [Week 9](docs/Week09.pdf)
+- [Week 10](docs/Week10.pdf)
+- [Week 11](docs/Week11.pdf)
+
+### Visuals
+-TBD
+
+### Example Bash Scripts
+
+- [ex1.bash](scripts/ex1.bash)
+- [ex2.bash](scripts/ex2.bash)
+- [ex3.bash](scripts/ex3.bash)
+- [ex4.bash](scripts/ex4.bash)
+- [ex5.bash](scripts/ex5.bash)
+- [ex6.bash](scripts/ex6.bash)
+- [ex7.bash](scripts/ex7.bash)
+- [ex8.bash](scripts/ex8.bash)
+- [ex9.bash](scripts/ex9.bash)
+- [ex10.bash](scripts/ex10.bash)
+- [walkthru.bash](scripts/walkthru.bash)
+
+### Sample Data Files
+- [cars](docs/cars)
+- [menu](docs/menu)
+- [readme](docs/readme)
+- [phonebook](docs/phonebook)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
